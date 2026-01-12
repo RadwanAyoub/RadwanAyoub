@@ -1,41 +1,111 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Radwan Abu Siam
-=======================================================================================================================================
+# 👋 Hi, I'm Radwan Abu Siam
 
-.Net-Sitecore Developer
------------------------
+🚀 **Senior Full Stack Engineer | .NET & Sitecore Specialist | Cloud-Native Builder**
 
-I'm an energetic, ambitious developer who has developed a mature and responsible approach to any task that I undertake, or situation that I am presented with. As a graduate with more than 4 years of experience in Computer Science, I'm excellent at working with others to achieve a certain objective on time. I have a clear, logical mind with a practical approach to problem-solving and a drive to see things through to completion. I have more than four years of experience in developing web applications. I have strong technical skills as well as excellent interpersonal skills, enabling me to interact with a wide range of clients. I am eager to learn and I enjoy overcoming challenges.
+I’m a Full Stack Engineer with **7+ years of experience** designing and delivering **scalable, secure, and high-performance web applications**.  
+I enjoy turning complex business requirements into **clean, maintainable architectures** using proven engineering principles and modern technologies.
 
-* 🌍  I'm based in Dusseldorf, Germany
-* 🖥️  See my portfolio at [MyPortfolio](http://my.visualcv.com/radwan-abusiam/)
-* ✉️  You can contact me at [radwan-ayoub@outlook.com](mailto:radwan-ayoub@outlook.com)
-* 🧠  I'm learning Sitecore Docker and CI/CD
+---
 
-### Skills
+## 🧠 About Me
 
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
-<a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" /></a>
-</p>
+- 💼 Senior Full Stack Engineer based in **Duisburg, Germany**
+- 🏗 Strong believer in **Clean Architecture, SOLID & CQRS**
+- 🧩 Experienced with **Monoliths, Modular Monoliths & Microservices**
+- 🧑‍🤝‍🧑 Thrive in **Agile / Scrum** teams and cross-functional environments
+- 🏆 Employee of the Month @ Metro Digital  
+- 🏆 Employee of the Year @ Remarkable  
 
+---
 
-### Socials
+## 🛠 Tech Stack
 
-<p align="left"> <a href="https://www.github.com/RadwanAyoub" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/radwan-ayoub" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/rizayoub" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://www.twitch.tv/PatchyKill" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /></a></p>
+### 🔧 Backend
+- **.NET Framework / .NET Core**
+- **C#, ASP.NET MVC, Web API**
+- **Entity Framework Core**
+- RESTful APIs, JSON
+- Authentication & Authorization (JWT, OAuth)
 
-### Badges
+### 🎨 Frontend
+- **TypeScript, JavaScript**
+- **React.js**
+- HTML5, CSS3, Bootstrap
+- AJAX, jQuery
 
-<b>My GitHub Stats</b>
+### 🧱 Architecture & Patterns
+- Clean Architecture
+- SOLID, DRY
+- CQRS
+- Repository, Factory, Singleton, Mediator
+- Dependency Injection
 
-<a href="http://www.github.com/RadwanAyoub"><img src="https://github-readme-stats.vercel.app/api?username=RadwanAyoub&show_icons=true&hide=&count_private=true&title_color=10b981&text_color=000000&icon_color=f97316&bg_color=ffffff&hide_border=true&show_icons=true" alt="RadwanAyoub's GitHub stats" /></a>
+### 🧩 CMS & Enterprise Platforms
+- **Sitecore (8.x – 10.4)**
+- Helix Architecture, SXA
+- Headless CMS
+- Personalization, Workflows, Pipelines
+- Scriban, Forms, Security
+- Serialization (Unicorn, TDS)
+- PowerShell Automation
 
-### Support Me
+### ☁️ DevOps & Cloud
+- Docker 🐳
+- Kubernetes ☸️
+- CI/CD Pipelines
+- **Azure & Google Cloud Platform**
+- Monitoring: Datadog, Pingdom
 
-<a href="https://www.buymeacoffee.com/radwanayoub"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+### 🗄 Data & Search
+- MS SQL Server
+- Solr
+- Sitecore Content Search API
+
+### 🧪 Quality & Tooling
+- Git (Git-based workflows)
+- Postman, Insomnia, Fiddler
+- SonarQube, SonarLint, Polaris
+
+---
+
+## 🏗 What I Love Building
+
+- Enterprise-grade **Sitecore solutions**
+- Scalable **.NET backend services**
+- Clean, testable **API-driven architectures**
+- Modern, responsive **React frontends**
+- Automated **CI/CD pipelines**
+- Cloud-ready, containerized applications
+
+---
+
+## 📌 Certifications
+
+- 🟦 **Sitecore Certified Platform Associate Developer**
+- 🎓 Microsoft – Web Development with Visual Studio
+- 🎓 Microsoft – Developing Data Access Solutions
+
+---
+
+## 🎓 Education
+
+**B.Sc. in Computer Science**  
+ISRA University  
+🏅 *Best Graduate Project Award – 2nd Place*
+
+---
+
+## 🌍 Let’s Connect
+
+- 📧 Email: **radwan-ayoub@outlook.com**
+- 💼 LinkedIn: [linkedin.com/in/radwan-abusiam](https://www.linkedin.com/in/radwan-abusiam)
+- 🌐 Companies I’ve worked with:
+  - [Metro Digital](https://metro.digital/)
+  - [Remarkable](https://remarkable.global/)
+  - [Axein](https://axein.in/)
+
+---
+
+> 💡 *“Good architecture is not about frameworks — it’s about decisions that survive change.”*
+
+⭐ If you like clean architecture, scalable systems, or Sitecore engineering — feel free to explore my repositories!
