@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Radwan Abu Siam
 
-🚀 **Senior Full Stack Engineer | .NET & Sitecore Specialist | Cloud-Native Builder**
+🚀 **Senior Full Stack Engineer | .NET & Sitecore Specialist**
 
 I’m a Full Stack Engineer with **7+ years of experience** designing and delivering **scalable, secure, and high-performance web applications**.  
 I enjoy turning complex business requirements into **clean, maintainable architectures** using proven engineering principles and modern technologies.
