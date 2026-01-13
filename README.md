@@ -10,7 +10,7 @@ I enjoy turning complex business requirements into **clean, maintainable archite
 ## 🧠 About Me
 
 - 💼 Senior Full Stack Engineer based in **Duisburg, Germany**
-- 🏗 Strong believer in **Clean Architecture, SOLID & CQRS**
+- 🏗 Strong believer in **Clean Architecture & SOLID & CQRS & DRY & DI & Design patterns**
 - 🧩 Experienced with **Monoliths, Modular Monoliths & Microservices**
 - 🧑‍🤝‍🧑 Thrive in **Agile / Scrum** teams and cross-functional environments
 - 🏆 Employee of the Month @ Metro Digital  
